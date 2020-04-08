@@ -57,6 +57,9 @@ Tesla demonstrated a boat that used a coherer-based radio control—which he dub
 ## Patents
 Tesla obtained around ~~280~~ 300 patents worldwide for his inventions. Many inventions developed by Tesla were not put into patent protection.
 
+## Westinghouse
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sapien eget mi proin sed. Arcu odio ut sem nulla.
+
 ## Legacy and honors
 - **Places**
   1. Belgrade Nikola Tesla Airport 
